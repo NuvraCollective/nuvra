@@ -3,13 +3,9 @@ layout: home
 title: ""
 ---
 
-### Daha az gösterir  
-#### Daha çok hissettirir
+## Daha az gösterir  
+### Daha çok hissettirir
 
-İç giyim yıllarca görünmek için tasarlandı.
+NUVRÀ görünmemek için tasarlanıyor.
 
-NUVRÀ görünmemesi için tasarlanıyor.
-
-Sessiz konfor.  
-Gün boyu seninle.  
-Kimse fark etmeden.
+[Manifesto →](/manifesto/)
