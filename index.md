@@ -1,9 +1,6 @@
 ---
 layout: home
-title: NUVRÀ
 ---
-
-# NUVRÀ
 
 ## Daha az gösterir  
 ### Daha çok hissettirir
