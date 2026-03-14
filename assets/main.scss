@@ -54,3 +54,33 @@ a:hover {
   color: #c9c9c9;
   text-decoration: none;
 }
+.wrapper {
+  max-width: 760px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-size: 34px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+p {
+  font-size: 18px;
+  margin-top: 14px;
+}
+
+.site-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.site-title {
+  font-size: 20px;
+  letter-spacing: 3px;
+}
