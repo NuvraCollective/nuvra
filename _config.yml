@@ -2,3 +2,8 @@ title: NUVRÀ
 description: Görünmeyen konfor.
 lang: tr
 theme: minima
+
+header_pages:
+  - manifesto.md
+  - journal.md
+  - yakinda.md
