@@ -1,9 +1,10 @@
 ---
 layout: home
+title: ""
 ---
 
-## Daha az gösterir  
-### Daha çok hissettirir
+### Daha az gösterir  
+#### Daha çok hissettirir
 
 İç giyim yıllarca görünmek için tasarlandı.
 
