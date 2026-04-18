@@ -9,7 +9,7 @@ Daha az dikiş. Daha az baskı. Daha az rol.
 Daha çok rahatlık. Daha çok özgüven. Daha çok sen.
 
 [Manifestoyu Oku →](manifesto)
-![NUVRÀ Hero](assets/images/hero.jpg)
+<img class="hero-image" src="{{ '/assets/images/hero.jpg' | relative_url }}" alt="NUVRÀ">
 ---
 
 ## Çünkü çoğu iç giyim görünmek için tasarlanıyor.
