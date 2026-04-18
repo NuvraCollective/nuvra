@@ -50,3 +50,4 @@ Renkler:
 Erken erişim, ilk renkler ve ilk drop için bizi takip et.
 
 Instagram: @nuvra.collective
+<img class="hero-image" src="{{ '/assets/images/hero.jpg' | relative_url }}" alt="NUVRÀ">
